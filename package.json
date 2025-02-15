@@ -16,7 +16,7 @@
     "devDependencies": {
         "eslint": "8.57.1",
         "prettier": "3.4.2",
-        "semantic-release": "19.0.5"
+        "semantic-release": "24.2.3"
     },
     "dependencies": {
         "itty-router": "2.6.6",
